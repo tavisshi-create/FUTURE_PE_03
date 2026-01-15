@@ -6,6 +6,9 @@ This repository contains the documentation and logic for **Serene**, an empathet
 ## 🔗 Live Demo
 https://poe.com/LumiMind
 
+## Documentation-
+https://www.notion.so/Task-3-Chatbot-Personas-2e94a7959db68020b78ac7128a490160?source=copy_link
+
 ## 🤖 Bot Persona: Serene
 - **Tone:** Empathetic, calm, and non-judgmental.
 - **Specialization:** Stress relief, breathing exercises, and emotional validation.
